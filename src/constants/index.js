@@ -163,7 +163,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://abhinavtirumani.vercel.app",
   },
   {
     name: "Trip Guide",
